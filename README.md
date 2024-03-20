@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @beebeesea
+- 👀 I’m interested in everything new
+- 🌱 I’m currently learning nodejs and web3
+- 💞️ I’m looking to collaborate on any interesting stuff
+- ⚡ Fun fact: im gay
